@@ -1,4 +1,4 @@
 # ga-prot
 
 
-This software is released under the MIT License.
+This code is released under the MIT License.
